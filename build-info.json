@@ -1,0 +1,11 @@
+{
+  "sampleCount": 400,
+  "successfulModels": 294,
+  "undeliveredModels": 106,
+  "modelBytes": 759120224,
+  "splitModels": 1,
+  "assemblyFidelityCounts": {
+    "NOT_RECORDED": 51,
+    "PASS": 243
+  }
+}
